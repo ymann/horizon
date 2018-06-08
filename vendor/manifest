@@ -333,7 +333,7 @@
 		{
 			"importpath": "golang.org/x/net/http2",
 			"repository": "https://go.googlesource.com/net",
-			"revision": "b6d7b1396ec874c3b00f6c84cd4301a17c56c8ed",
+			"revision": "1e491301e022f8f977054da4c2d852decd59571f",
 			"branch": "master",
 			"path": "/http2"
 		},
